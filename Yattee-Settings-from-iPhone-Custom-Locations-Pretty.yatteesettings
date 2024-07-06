@@ -1,0 +1,342 @@
+{
+  "advancedSettings" : {
+
+  },
+  "otherData" : {
+
+  },
+  "playerSettings" : {
+
+  },
+  "locationsSettings" : {
+    "instances" : [
+      {
+        "app" : "piped",
+        "id" : "78834D5D-FADD-4ADA-993F-6A04A2ACBDB1",
+        "proxiesVideos" : "false",
+        "apiURL" : "https:\/\/pipedapi.wireway.ch",
+        "frontendURL" : "",
+        "name" : "2 Wire Way"
+      },
+      {
+        "app" : "piped",
+        "id" : "D5E6226B-1B79-4308-8462-0046A42DB828",
+        "proxiesVideos" : "false",
+        "frontendURL" : "",
+        "name" : "5 Garuda Linux",
+        "apiURL" : "https:\/\/piped-api.garudalinux.org"
+      },
+      {
+        "app" : "piped",
+        "id" : "DE5AD0C9-1E62-481B-A855-6953505B9154",
+        "proxiesVideos" : "false",
+        "frontendURL" : "",
+        "name" : "10 Leptons",
+        "apiURL" : "https:\/\/pipedapi.leptons.xyz"
+      },
+      {
+        "app" : "invidious",
+        "id" : "5B30275C-839C-4A65-A6A6-C3D3EBE339B8",
+        "proxiesVideos" : "false",
+        "frontendURL" : "",
+        "name" : "Melmac Space",
+        "apiURL" : "https:\/\/iv.melmac.space"
+      },
+      {
+        "app" : "invidious",
+        "id" : "6C70B723-F460-4E8C-B1A1-2F46922EA854",
+        "proxiesVideos" : "false",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.nerdvpn.de"
+      },
+      {
+        "app" : "piped",
+        "id" : "56DA7FB9-74D1-47A7-A83D-F5D53018DBBE",
+        "proxiesVideos" : "false",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious-eu01.yattee.stream"
+      },
+      {
+        "app" : "invidious",
+        "id" : "3D64C5B1-A281-4885-8BCD-B62DE9B22828",
+        "proxiesVideos" : "false",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/yt.whateveritworks.org"
+      },
+      {
+        "app" : "piped",
+        "proxiesVideos" : "false",
+        "id" : "42F66D29-75C7-43F7-A72D-9FE127299B9C",
+        "frontendURL" : "",
+        "apiURL" : "https:\/\/pipedapi.kavin.rocks",
+        "name" : ""
+      },
+      {
+        "app" : "piped",
+        "proxiesVideos" : "false",
+        "id" : "47A1B27D-0ACE-4747-BCED-A79B4B5CA9EC",
+        "frontendURL" : "",
+        "apiURL" : "https:\/\/pipedapi-libre.kavin.rocks",
+        "name" : ""
+      },
+      {
+        "app" : "piped",
+        "proxiesVideos" : "false",
+        "id" : "CA9403C2-6E14-4111-BED1-8860AB500E11",
+        "frontendURL" : "",
+        "apiURL" : "https:\/\/pipedapi.darkness.services",
+        "name" : ""
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "20671639-BA59-4837-868C-EF8BEB328FB0",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.r4fo.com"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "117BD3F2-0BC4-43A6-9D86-FAE7EA061774",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.syncpundit.io"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "59E1E1E2-FFA1-4052-934C-3919F47B47F3",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/piped-api.lunar.icu"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "0503A362-4CB8-42D9-BA83-A0660E1EB6DC",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.smnz.de"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "E5820856-85C1-4771-BBF3-A67EAB87367F",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/api.piped.private.coffee"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "2689E29A-053E-48B1-8AC6-3A7ADA1FAF36",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.phoenixthrush.com"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "9FD57A80-9574-40F3-B4F8-C87D8439F464",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.reallyaweso.me"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "19194F23-0499-40EA-8E07-6EBA8E4BCEBE",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.astartes.nl"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "FF236F01-C8C0-49D4-BB05-75D901E071C5",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/api.piped.yt"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "3BBEA75C-35E6-49DB-A6E8-B6B22DB5E818",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.in.projectsegfau.lt"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "D6E9FD48-132F-4018-8CDE-5A3762D9A1ED",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.us.projectsegfau.lt"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "F888A9E3-40C9-4558-9BB7-850CE17528A7",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.ngn.tf"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "199BC545-C50D-4530-8BE7-B0FAD0994498",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.drgns.space"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "E8A90013-A0DD-4AE6-9C9F-F369A7FF395D",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.adminforge.de"
+      },
+      {
+        "proxiesVideos" : "false",
+        "id" : "D19485BB-42F4-4BE6-9566-4D1A4A99BBA6",
+        "app" : "piped",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/api.piped.privacydev.net"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "piped",
+        "id" : "AD5C4F46-9446-482B-8884-88FDB7DBD89E",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/api.piped.aosus.link"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "piped",
+        "id" : "F1360A37-F943-493B-B26F-7D5A26D73AF9",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/pipedapi.andreafortuna.org"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "8A7E18A6-71B1-4C33-B3E8-90D9C028E961",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.perennialte.ch"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "EC872CE3-F89E-48C3-9B60-288F8CB8AC0B",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.reallyaweso.me"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "AFD15E3C-11CB-4679-A0AC-01EEF2D0B155",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.materialio.us"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "291B1A1D-0BE0-44F8-B229-6848E1D9BE99",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.protokolla.fi"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "26917B4A-827E-4E6D-A349-C1712CC0CDE9",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.fdn.fr"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "D0DC2D2D-52CF-4A07-97FD-6EAD3F93B483",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.private.coffee"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "4D81B9F3-D29E-4FB4-B7F3-5FE3217F0925",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.flokinet.to"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "1E7C31E9-CA65-4833-99F5-58003968C7C3",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.projectsegfau.lt"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "14944257-0261-41B2-8DD1-8BF52DBABF05",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/inv.us.projectsegfau.lt"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "00E0FDB6-4EAC-43D5-A2FD-87752A99ED44",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/inv.in.projectsegfau.lt"
+      },
+      {
+        "proxiesVideos" : "false",
+        "app" : "invidious",
+        "id" : "F126D8D8-C004-4E1C-BC06-F11F9F0852CA",
+        "frontendURL" : "",
+        "name" : "",
+        "apiURL" : "https:\/\/invidious.einfachzocken.eu"
+      }
+    ]
+  },
+  "historySettings" : {
+
+  },
+  "browsingSettings" : {
+
+  },
+  "controlsSettings" : {
+
+  },
+  "sponsorBlockSettings" : {
+
+  },
+  "metadata" : {
+    "platform" : "iOS",
+    "build" : "186",
+    "timestamp" : "1720138657.477524"
+  },
+  "qualitySettings" : {
+
+  },
+  "recentlyOpened" : {
+
+  }
+}
