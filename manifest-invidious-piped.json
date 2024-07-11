@@ -32,13 +32,13 @@
       "app": "Piped",
       "region": "Europe",
       "country": "05 Sync Pundit CDN",
-      "flag": "🇬🇷🇺🇸, 🇮🇳, 🇬🇧, 🇯🇵",
+      "flag": "🇬🇷, 🇺🇸, 🇮🇳, 🇬🇧, 🇯🇵",
       "url": "https://pipedapi.syncpundit.io"
     },
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "06 Lunar icu 🇩🇪",
+      "country": "06 Lunar icu CDN 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://piped-api.lunar.icu"
     },
@@ -136,105 +136,119 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "20 Andreafortuna org",
+      "country": "20 Wireway ch 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.wireway.ch"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "21 Andreafortuna org 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.andreafortuna.org"
     },
     {
+      "app": "Piped",
+      "region": "North America",
+      "country": "22 Nosebs ru 🇫🇮",
+      "flag": "🇫🇮",
+      "url": "https://pipedapi.nosebs.ru"
+    },
+    {
       "app": "Invidious",
       "region": "North America",
-      "country": "21 Perennialte ch 🇦🇺",
+      "country": "31 Perennialte ch 🇦🇺",
       "flag": "🇦🇺",
       "url": "https://invidious.perennialte.ch"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "22 Materialio us 🇳🇿",
+      "country": "32 Materialio us 🇳🇿",
       "flag": "🇳🇿",
       "url": "https://invidious.materialio.us"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "23 Reallyaweso Me 🇩🇪",
+      "country": "33 Reallyaweso Me 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.reallyaweso.me"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "24 Protokolla fi 🇫🇮",
-      "flag": "🇫🇷",
+      "country": "34 Protokolla fi 🇫🇮",
+      "flag": "🇫🇮",
       "url": "https://invidious.protokolla.fi"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "25 Fdn fr 🇫🇷",
+      "country": "35 Fdn fr 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://invidious.fdn.fr"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "26 Private Coffee 🇦🇹",
+      "country": "36 Private Coffee 🇦🇹",
       "flag": "🇦🇹",
       "url": "https://invidious.private.coffee"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "27 Flokinet to 🇷🇴",
+      "country": "37 Flokinet to 🇷🇴",
       "flag": "🇷🇴",
       "url": "https://invidious.flokinet.to"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "28 Projectsegfau lt 🇪🇺",
+      "country": "38 Projectsegfau lt 🇪🇺",
       "flag": "🇪🇺",
       "url": "https://invidious.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "29 Projectsegfau lt 🇺🇸",
+      "country": "39 Projectsegfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://inv.us.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "30 Projectsegfau lt 🇮🇳",
+      "country": "40 Projectsegfau lt 🇮🇳",
       "flag": "🇮🇳",
       "url": "https://inv.in.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "31 Einfachzocken eu 🇪🇺",
+      "country": "41 Einfachzocken eu 🇪🇺",
       "flag": "🇪🇺",
       "url": "https://invidious.einfachzocken.eu"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "32 Tux pizza 🇺🇸",
+      "country": "42 Tux pizza 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://inv.tux.pizza"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "33 Jing rocks 🇯🇵",
+      "country": "43 Jing rocks 🇯🇵",
       "flag": "🇯🇵",
       "url": "https://invidious.jing.rocks"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "34 Yattee stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
+      "country": "44 Yattee stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
       "flag": "🇩🇪, 🇳🇱, 🇷🇴, 🇮🇳, 🇯🇵",
       "url": "https://invidious-eu01.yattee.stream"
     },
