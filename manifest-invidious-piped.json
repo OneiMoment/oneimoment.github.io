@@ -87,70 +87,77 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "13 Projects Egfau lt 🇮🇳",
+      "country": "13 Projects Egfau lt 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://api.piped.projectsegfau.lt"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "14 Projects Egfau lt 🇮🇳",
       "flag": "🇮🇳",
       "url": "https://pipedapi.in.projectsegfau.lt"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "14 Projects Egfau lt 🇺🇸",
+      "country": "15 Projects Egfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://pipedapi.us.projectsegfau.lt"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "15 Ngn tf 🇹🇷",
+      "country": "16 Ngn tf 🇹🇷",
       "flag": "🇹🇷",
       "url": "https://pipedapi.ngn.tf"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "16 Drgns Space 🇺🇸",
+      "country": "17 Drgns Space 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://pipedapi.drgns.space"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "17 Admin Forge de 🇩🇪",
+      "country": "18 Admin Forge de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.adminforge.de"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "18 Privacy Dev net 🇫🇷",
+      "country": "19 Privacy Dev net 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://api.piped.privacydev.net"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "19 Aosus Link 🇩🇪",
+      "country": "20 Aosus Link 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://api.piped.aosus.link"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "20 Wireway ch 🇩🇪",
+      "country": "21 Wireway ch 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.wireway.ch"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "21 Andreafortuna org 🇩🇪",
+      "country": "22 Andrea Fortuna org 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.andreafortuna.org"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "22 Nosebs ru 🇫🇮",
+      "country": "23 Nosebs ru 🇫🇮",
       "flag": "🇫🇮",
       "url": "https://pipedapi.nosebs.ru"
     },
@@ -206,23 +213,23 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "38 Projectsegfau lt 🇪🇺",
-      "flag": "🇪🇺",
+      "country": "38 Projectsegfau lt 🇫🇷",
+      "flag": "🇫🇷",
       "url": "https://invidious.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "39 Projectsegfau lt 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://inv.us.projectsegfau.lt"
+      "country": "39 Projectsegfau lt 🇮🇳",
+      "flag": "🇮🇳",
+      "url": "https://inv.in.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "40 Projectsegfau lt 🇮🇳",
-      "flag": "🇮🇳",
-      "url": "https://inv.in.projectsegfau.lt"
+      "country": "40 Projectsegfau lt 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://inv.us.projectsegfau.lt"
     },
     {
       "app": "Invidious",
@@ -251,6 +258,20 @@
       "country": "44 Yattee stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
       "flag": "🇩🇪, 🇳🇱, 🇷🇴, 🇮🇳, 🇯🇵",
       "url": "https://invidious-eu01.yattee.stream"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "45 Admin Forge de 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://invidious.adminforge.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "46 Privacy Dev net 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://invidious.privacydev.net"
     },
     {
       "app": "Invidious",
