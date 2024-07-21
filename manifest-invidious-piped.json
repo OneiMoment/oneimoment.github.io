@@ -38,7 +38,7 @@
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "06 Lunar icu CDN 🇩🇪",
+      "country": "06 🔴 Lunar icu CDN 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://piped-api.lunar.icu"
     },
@@ -101,7 +101,7 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "15 Projects Egfau lt 🇺🇸",
+      "country": "15 🔴 Projects Egfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://pipedapi.us.projectsegfau.lt"
     },
@@ -150,14 +150,14 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "22 Andrea Fortuna org 🇩🇪",
+      "country": "22 🔴 Andrea Fortuna org 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.andreafortuna.org"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "23 Nosebs ru 🇫🇮",
+      "country": "23 🔴 Nosebs ru 🇫🇮",
       "flag": "🇫🇮",
       "url": "https://pipedapi.nosebs.ru"
     },
@@ -227,14 +227,14 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "40 Projectsegfau lt 🇺🇸",
+      "country": "40 🔴 Projectsegfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://inv.us.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "41 Einfachzocken eu 🇪🇺",
+      "country": "41 🔴 Einfachzocken eu 🇪🇺",
       "flag": "🇪🇺",
       "url": "https://invidious.einfachzocken.eu"
     },
