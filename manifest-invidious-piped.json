@@ -276,6 +276,13 @@
     {
       "app": "Invidious",
       "region": "North America",
+      "country": "47 🟢 Nard vpn de 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://invidious.nerdvpn.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
