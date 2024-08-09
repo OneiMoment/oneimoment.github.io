@@ -283,6 +283,13 @@
     {
       "app": "Invidious",
       "region": "North America",
+      "country": "48 🟢 Darkness Services 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://invidious.darkness.services"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
