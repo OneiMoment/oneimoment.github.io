@@ -45,7 +45,7 @@
     {
       "app": "Piped",
       "region": "Asia",
-      "country": "07 Smnz de 🇩🇪",
+      "country": "07 🔴 Smnz de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.smnz.de"
     },
@@ -59,7 +59,7 @@
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "09 Phoenixthrush 🇩🇪",
+      "country": "09 🔴 Phoenixthrush 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.phoenixthrush.com"
     },
@@ -73,7 +73,7 @@
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "11 Astartes nl 🇳🇱",
+      "country": "11 🔴 Astartes nl 🇳🇱",
       "flag": "🇳🇱",
       "url": "https://pipedapi.astartes.nl"
     },
@@ -87,7 +87,7 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "13 Projects Egfau lt 🇫🇷",
+      "country": "13 🔴 Projects Egfau lt 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://api.piped.projectsegfau.lt"
     },
@@ -157,7 +157,14 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "23 🔴 Nosebs ru 🇫🇮",
+      "country": "23 🔴 Privacy Tools click 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://pipedapi.privacytools.click"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "24 🔴 Nosebs ru 🇫🇮",
       "flag": "🇫🇮",
       "url": "https://pipedapi.nosebs.ru"
     },
@@ -307,6 +314,13 @@
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://yt.whateveritworks.org"
     },
     {
       "app": "Piped",
