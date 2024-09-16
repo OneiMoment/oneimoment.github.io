@@ -185,7 +185,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "34 Protokolla fi 🇫🇮",
+      "country": "34 🔴 Protokolla fi 🇫🇮",
       "flag": "🇫🇮",
       "url": "https://invidious.protokolla.fi"
     },
@@ -220,86 +220,86 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "39 Projectsegfau lt 🇮🇳",
+      "country": "39 🔴 Projectsegfau lt 🇮🇳",
       "flag": "🇮🇳",
       "url": "https://inv.in.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "40 🔴 Projectsegfau lt 🇺🇸",
+      "country": "40 🟢 Projectsegfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://inv.us.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "41 🔴 Einfachzocken eu 🇪🇺",
-      "flag": "🇪🇺",
-      "url": "https://invidious.einfachzocken.eu"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "42 Tux pizza 🇺🇸",
+      "country": "41 Tux pizza 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://inv.tux.pizza"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "43 Jing rocks 🇯🇵",
+      "country": "42 🔴 Jing rocks 🇯🇵",
       "flag": "🇯🇵",
       "url": "https://invidious.jing.rocks"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "44 Yattee stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
+      "country": "43 Yattee stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
       "flag": "🇩🇪, 🇳🇱, 🇷🇴, 🇮🇳, 🇯🇵",
       "url": "https://invidious-eu01.yattee.stream"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "45 Admin Forge de 🇩🇪",
+      "country": "44 Admin Forge de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.adminforge.de"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "46 Privacy Dev net 🇫🇷",
+      "country": "45 Privacy Dev net 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://invidious.privacydev.net"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "47 🟢 Nard vpn de 🇩🇪",
+      "country": "46 🟢 Nard vpn de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.nerdvpn.de"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "48 🟢 Darkness Services 🇺🇸",
+      "country": "47 🟢 Darkness Services 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://invidious.darkness.services"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "49 🟢 Ggtyler dev 🇺🇸",
+      "country": "48 🟢 Ggtyler dev 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://iv.ggtyler.dev"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "50 🟢 Ggtyler dev 🇵🇱",
+      "country": "49 🟢 Nboeck de 🇵🇱",
       "flag": "🇵🇱",
-      "url": "https://pol1.iv.ggtyler.dev"
+      "url": "https://iv.nboeck.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "50 🟢 Your Device ch 🇵🇱",
+      "flag": "🇵🇱",
+      "url": "https://invidious.yourdevice.ch"
     },
     {
       "app": "Invidious",
