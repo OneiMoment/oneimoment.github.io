@@ -3,7 +3,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "01 🔴 Projectsegfau lt 🇮🇳",
+      "country": "01 🔴 Projects Egfau lt 🇮🇳",
       "flag": "🇮🇳",
       "url": "https://inv.in.projectsegfau.lt"
     },
@@ -17,7 +17,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "03 🔴 Projectsegfau lt 🇺🇸",
+      "country": "03 🔴 Projects Egfau lt 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://inv.us.projectsegfau.lt"
     },
@@ -31,7 +31,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "05 🟡 Admin Forge de 🇩🇪",
+      "country": "05 🔴 Admin Forge de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.adminforge.de"
     },
@@ -52,7 +52,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "08 🔴 Flokinet to 🇷🇴",
+      "country": "08 🔴 Floki net to 🇷🇴",
       "flag": "🇷🇴",
       "url": "https://invidious.flokinet.to"
     },
@@ -66,14 +66,14 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "10 🔴 Materialio us 🇳🇿",
+      "country": "10 🔴 Material io us 🇳🇿",
       "flag": "🇳🇿",
       "url": "https://invidious.materialio.us"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "11 🔴 Nard vpn de 🇺🇦",
+      "country": "11 🔴 Nard VPN de 🇺🇦",
       "flag": "🇺🇦",
       "url": "https://invidious.nerdvpn.de"
     },
@@ -101,7 +101,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "15 🔴 Projectsegfau lt 🇫🇷",
+      "country": "15 🔴 Projects Egfau lt 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://invidious.projectsegfau.lt"
     },
@@ -115,7 +115,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "17 🔴 Reallyaweso Me 🇦🇹",
+      "country": "17 🔴 Really Aweso Me 🇦🇹",
       "flag": "🇦🇹",
       "url": "https://invidious.reallyaweso.me"
     },
@@ -150,7 +150,7 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "32 🟠 Privacy Dev net 🇫🇷",
+      "country": "32 🔴 Privacy Dev net 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://api.piped.privacydev.net"
     },
@@ -248,7 +248,7 @@
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "46 🔴 Phoenixthrush 🇩🇪",
+      "country": "46 🔴 Phoenix Thrush 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.phoenixthrush.com"
     },
@@ -269,7 +269,7 @@
     {
       "app": "Piped",
       "region": "Europe",
-      "country": "49 🟠 Reallyaweso Me 🇩🇪",
+      "country": "49 🟢 Really Aweso Me 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.reallyaweso.me"
     },
@@ -297,7 +297,7 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "53 🔴 Wireway ch 🇩🇪",
+      "country": "53 🟡 Wire Way ch 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.wireway.ch"
     },
