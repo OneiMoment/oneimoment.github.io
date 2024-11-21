@@ -141,6 +141,34 @@
       "url": "https://iv.nboeck.de"
     },
     {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "21 🟢 Ggtyler dev 🇵🇱",
+      "flag": "🇵🇱",
+      "url": "https://pol1.iv.ggtyler.dev"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "22 🔴 Ggtyler dev 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://nyc1.iv.ggtyler.dev"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "23 🔴 Ggtyler dev 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://cal1.iv.ggtyler.dev"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "24 🔴 Ngn tf 🇹🇷",
+      "flag": "🇹🇷",
+      "url": "https://inv.ngn.tf"
+    },
+    {
       "app": "Piped",
       "region": "North America",
       "country": "31 🔴 Aosus Link 🇩🇪",
