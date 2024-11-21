@@ -3,163 +3,163 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "01 🔴 Projects Egfau lt 🇮🇳",
-      "flag": "🇮🇳",
-      "url": "https://inv.in.projectsegfau.lt"
-    },
-     {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "02 🔴 Tux pizza 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://inv.tux.pizza"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "03 🔴 Projects Egfau lt 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://inv.us.projectsegfau.lt"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "04 🔴 Yattee Stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
-      "flag": "🇩🇪, 🇳🇱, 🇷🇴, 🇮🇳, 🇯🇵",
-      "url": "https://invidious-eu01.yattee.stream"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "05 🔴 Admin Forge de 🇩🇪",
-      "flag": "🇩🇪",
-      "url": "https://invidious.adminforge.de"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "06 🔴 Darkness Services 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://invidious.darkness.services"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "07 🔴 Fdn fr 🇫🇷",
-      "flag": "🇫🇷",
-      "url": "https://invidious.fdn.fr"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "08 🔴 Floki net to 🇷🇴",
-      "flag": "🇷🇴",
-      "url": "https://invidious.flokinet.to"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "09 🔴 Jing rocks 🇯🇵",
-      "flag": "🇯🇵",
-      "url": "https://invidious.jing.rocks"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "10 🔴 Material io us 🇳🇿",
-      "flag": "🇳🇿",
-      "url": "https://invidious.materialio.us"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "11 🔴 Nard VPN de 🇺🇦",
-      "flag": "🇺🇦",
-      "url": "https://invidious.nerdvpn.de"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "12 🔴 Perennialte ch 🇦🇺",
-      "flag": "🇦🇺",
-      "url": "https://invidious.perennialte.ch"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "13 🔴 Privacy Dev net 🇫🇷",
-      "flag": "🇫🇷",
-      "url": "https://invidious.privacydev.net"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "14 🔴 Private Coffee 🇦🇹",
-      "flag": "🇦🇹",
-      "url": "https://invidious.private.coffee"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "15 🔴 Projects Egfau lt 🇫🇷",
-      "flag": "🇫🇷",
-      "url": "https://invidious.projectsegfau.lt"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "16 🔴 Protokolla fi 🇫🇮",
-      "flag": "🇫🇮",
-      "url": "https://invidious.protokolla.fi"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "17 🔴 Really Aweso Me 🇦🇹",
-      "flag": "🇦🇹",
-      "url": "https://invidious.reallyaweso.me"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "18 🔴 Your Device ch 🇩🇪",
-      "flag": "🇩🇪",
-      "url": "https://invidious.yourdevice.ch"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "19 🔴 Nboeck de 🇩🇪",
-      "flag": "🇩🇪",
-      "url": "https://iv.nboeck.de"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "20 🟢 Ggtyler dev 🇵🇱",
-      "flag": "🇵🇱",
-      "url": "https://pol1.iv.ggtyler.dev"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "21 🔴 Ggtyler dev 🇺🇸",
+      "country": "01 🔴 CAL Ggtyler dev 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://cal1.iv.ggtyler.dev"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "22 🔴 Ggtyler dev 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://nyc1.iv.ggtyler.dev"
+      "country": "02 🔴 Projects Egfau lt 🇮🇳",
+      "flag": "🇮🇳",
+      "url": "https://inv.in.projectsegfau.lt"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "23 🔴 Ngn tf 🇹🇷",
+      "country": "03 🔴 Ngn tf 🇹🇷",
       "flag": "🇹🇷",
       "url": "https://inv.ngn.tf"
+    },
+     {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "04 🔴 Tux pizza 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://inv.tux.pizza"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "05 🔴 Projects Egfau lt 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://inv.us.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "06 🔴 Yattee Stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
+      "flag": "🇩🇪, 🇳🇱, 🇷🇴, 🇮🇳, 🇯🇵",
+      "url": "https://invidious-eu01.yattee.stream"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "07 🔴 Admin Forge de 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://invidious.adminforge.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "08 🔴 Darkness Services 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://invidious.darkness.services"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "09 🔴 Fdn fr 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://invidious.fdn.fr"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "10 🔴 Floki net to 🇷🇴",
+      "flag": "🇷🇴",
+      "url": "https://invidious.flokinet.to"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "11 🔴 Jing rocks 🇯🇵",
+      "flag": "🇯🇵",
+      "url": "https://invidious.jing.rocks"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "12 🔴 Material io us 🇳🇿",
+      "flag": "🇳🇿",
+      "url": "https://invidious.materialio.us"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "13 🔴 Nard VPN de 🇺🇦",
+      "flag": "🇺🇦",
+      "url": "https://invidious.nerdvpn.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "14 🔴 Perennialte ch 🇦🇺",
+      "flag": "🇦🇺",
+      "url": "https://invidious.perennialte.ch"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "15 🔴 Privacy Dev net 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://invidious.privacydev.net"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "16 🔴 Private Coffee 🇦🇹",
+      "flag": "🇦🇹",
+      "url": "https://invidious.private.coffee"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "17 🔴 Projects Egfau lt 🇫🇷",
+      "flag": "🇫🇷",
+      "url": "https://invidious.projectsegfau.lt"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "18 🔴 Protokolla fi 🇫🇮",
+      "flag": "🇫🇮",
+      "url": "https://invidious.protokolla.fi"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "19 🔴 Really Aweso Me 🇦🇹",
+      "flag": "🇦🇹",
+      "url": "https://invidious.reallyaweso.me"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "20 🔴 Your Device ch 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://invidious.yourdevice.ch"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "21 🔴 Nboeck de 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://iv.nboeck.de"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "22 🟢 POL Ggtyler dev 🇵🇱",
+      "flag": "🇵🇱",
+      "url": "https://pol1.iv.ggtyler.dev"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "23 🔴 NYC Ggtyler dev 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://nyc1.iv.ggtyler.dev"
     },
     {
       "app": "Piped",
@@ -325,21 +325,21 @@
     {
       "app": "Piped",
       "region": "North America",
-      "country": "54 🟢 Ggtyler dev 🇵🇱",
+      "country": "54 🟢 POL Ggtyler dev 🇵🇱",
       "flag": "🇵🇱",
       "url": "https://pol1.pi.ggtyler.dev"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "55 🔴 Ggtyler dev 🇺🇸",
+      "country": "55 🔴 CAL Ggtyler dev 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://cal1.pi.ggtyler.dev"
     },
     {
       "app": "Piped",
       "region": "North America",
-      "country": "56 🔴 Ggtyler dev 🇺🇸",
+      "country": "56 🔴 NYC Ggtyler dev 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://nyc1.pi.ggtyler.dev"
     },
