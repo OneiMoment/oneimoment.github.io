@@ -129,23 +129,23 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "19 🔴 Ggtyler dev 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://iv.ggtyler.dev"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "20 🔴 Nboeck de 🇩🇪",
+      "country": "19 🔴 Nboeck de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://iv.nboeck.de"
     },
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "21 🟢 Ggtyler dev 🇵🇱",
+      "country": "20 🟢 Ggtyler dev 🇵🇱",
       "flag": "🇵🇱",
       "url": "https://pol1.iv.ggtyler.dev"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "21 🔴 Ggtyler dev 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://cal1.iv.ggtyler.dev"
     },
     {
       "app": "Invidious",
@@ -157,14 +157,7 @@
     {
       "app": "Invidious",
       "region": "North America",
-      "country": "23 🔴 Ggtyler dev 🇺🇸",
-      "flag": "🇺🇸",
-      "url": "https://cal1.iv.ggtyler.dev"
-    },
-    {
-      "app": "Invidious",
-      "region": "North America",
-      "country": "24 🔴 Ngn tf 🇹🇷",
+      "country": "23 🔴 Ngn tf 🇹🇷",
       "flag": "🇹🇷",
       "url": "https://inv.ngn.tf"
     },
@@ -328,6 +321,27 @@
       "country": "53 🟡 Wire Way ch 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.wireway.ch"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "54 🟢 Ggtyler dev 🇵🇱",
+      "flag": "🇵🇱",
+      "url": "https://pol1.pi.ggtyler.dev"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "55 🔴 Ggtyler dev 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://cal1.pi.ggtyler.dev"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "56 🔴 Ggtyler dev 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://nyc1.pi.ggtyler.dev"
     },
     {
       "app": "Invidious",
