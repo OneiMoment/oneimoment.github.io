@@ -133,6 +133,41 @@
       "flag": "🇵🇱",
       "url": "https://pol1.iv.ggtyler.dev"
     },
+     {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "20 🟢 inv1 Nadeko net Chile 🇨🇱",
+      "flag": "🇨🇱",
+      "url": "https://inv1.nadeko.net"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "21 🟢 inv2 Nadeko net Toronto Canada 🇨🇦",
+      "flag": "🇨🇦",
+      "url": "https://inv2.nadeko.net"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "22 🟢 inv3 Nadeko net Texas USA 🇺🇸",
+      "flag": "🇺🇸",
+      "url": "https://inv3.nadeko.net"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "23 🟢 inv4 Nadeko net Frankfurt DE 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://inv4.nadeko.net"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "24 🟢 inv5 Nadeko net Frankfurt DE 🇩🇪",
+      "flag": "🇩🇪",
+      "url": "https://inv5.nadeko.net"
+    },
     {
       "app": "Piped",
       "region": "North America",
