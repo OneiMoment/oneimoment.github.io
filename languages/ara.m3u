@@ -37,9 +37,9 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="ALL;News",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News",Al Hadath (1080p)
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="ALL;News",Al Hadath (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="Business",Al Arabiya Business (1080p)
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="ALL;Business",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="ALL;News",Asharq News (1080p)
 https://live-news.asharq.com/asharq.m3u8
@@ -54,7 +54,7 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://imgur.com/b6AKycz.png" group-title="ALL;Documentary",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="ALL;Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="ALL;Documentary",National Geographic Abu Dhabi (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
