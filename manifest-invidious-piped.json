@@ -7,7 +7,7 @@
       "flag": "🇺🇸",
       "url": "https://cal1.iv.ggtyler.dev"
     },
-     {
+    {
       "app": "Invidious",
       "region": "North America",
       "country": "02 🔴 Tux pizza 🇺🇸",
@@ -44,28 +44,28 @@
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "07 🟢 inv4 Nadeko net Frankfurt DE 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://inv4.nadeko.net"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "08 🟢 inv5 Nadeko net Frankfurt DE 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://inv5.nadeko.net"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "09 🔴 Yattee Stream CDN 🇩🇪 🇳🇱 🇷🇴 🇮🇳 🇯🇵 ",
       "flag": "🇩🇪, 🇳🇱, 🇷🇴, 🇮🇳, 🇯🇵",
       "url": "https://invidious-eu01.yattee.stream"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "10 🔴 Admin Forge de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.adminforge.de"
@@ -79,77 +79,77 @@
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "12 🔴 Fdn fr 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://invidious.fdn.fr"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "13 🔴 Floki net to 🇷🇴",
       "flag": "🇷🇴",
       "url": "https://invidious.flokinet.to"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Asia",
       "country": "14 🔴 Jing rocks 🇯🇵",
       "flag": "🇯🇵",
       "url": "https://invidious.jing.rocks"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Oceania",
       "country": "15 🟠 Material io us 🇳🇿",
       "flag": "🇳🇿",
       "url": "https://invidious.materialio.us"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "16 🟢 Nard VPN de 🇺🇦",
       "flag": "🇺🇦",
       "url": "https://invidious.nerdvpn.de"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "17 🔴 Privacy Dev net 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://invidious.privacydev.net"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "18 🔴 Private Coffee 🇦🇹",
       "flag": "🇦🇹",
       "url": "https://invidious.private.coffee"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "19 🟠 Protokolla fi 🇫🇮",
       "flag": "🇫🇮",
       "url": "https://invidious.protokolla.fi"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "20 🔴 Really Aweso Me 🇦🇹",
       "flag": "🇦🇹",
       "url": "https://invidious.reallyaweso.me"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "21 🔴 Your Device ch 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://invidious.yourdevice.ch"
     },
     {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "22 🔴 Nboeck de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://iv.nboeck.de"
@@ -161,37 +161,37 @@
       "flag": "🇺🇸",
       "url": "https://nyc1.iv.ggtyler.dev"
     },
-     {
+    {
       "app": "Invidious",
-      "region": "North America",
+      "region": "Europe",
       "country": "24 🔴 POL Ggtyler dev 🇵🇱",
       "flag": "🇵🇱",
       "url": "https://pol1.iv.ggtyler.dev"
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "31 🔴 Aosus Link 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://api.piped.aosus.link"
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "32 🔴 Privacy Dev net 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://api.piped.privacydev.net"
     },
     {
       "app": "Piped",
-      "region": "Asia",
+      "region": "Europe",
       "country": "33 🟠 Private Coffee 🇦🇹",
       "flag": "🇦🇹",
       "url": "https://api.piped.private.coffee"
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "34 🔴 Project Segfault 🇫🇷",
       "flag": "🇫🇷",
       "url": "https://api.piped.projectsegfau.lt"
@@ -205,7 +205,7 @@
     },
     {
       "app": "Piped",
-      "region": "Asia",
+      "region": "Europe",
       "country": "36 🔴 Lunar icu CDN 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://piped-api.lunar.icu"
@@ -219,21 +219,21 @@
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "38 🔴 Admin Forge de 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.adminforge.de"
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "39 🔴 Andrea Fortuna org 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.andreafortuna.org"
     },
     {
       "app": "Piped",
-      "region": "Europe",
+      "region": "North America",
       "country": "40 🔴 Darkness Services 🇺🇸",
       "flag": "🇺🇸",
       "url": "https://pipedapi.darkness.services"
@@ -247,7 +247,7 @@
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Asia",
       "country": "42 🔴 Project Segfault 🇮🇳",
       "flag": "🇮🇳",
       "url": "https://pipedapi.in.projectsegfau.lt"
@@ -268,7 +268,7 @@
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "45 🔴 Privacy Tools click 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.privacytools.click"
@@ -303,14 +303,14 @@
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "50 🟡 Wire Way ch 🇩🇪",
       "flag": "🇩🇪",
       "url": "https://pipedapi.wireway.ch"
     },
     {
       "app": "Piped",
-      "region": "North America",
+      "region": "Europe",
       "country": "51 🔴 POL Ggtyler dev 🇵🇱",
       "flag": "🇵🇱",
       "url": "https://pol1.pi.ggtyler.dev"
